@@ -72,4 +72,5 @@ main(){
  phone.Rangi("black");
  phone.Camera(7);
  phone.Xususiyatlar("green");
+ // New version
   }
